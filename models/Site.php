@@ -132,7 +132,6 @@ class Site
             $thermalValue[] = $line;
         }
         $file = null;
-        echo $thermalValue[1];
         return $thermalValue;
     }
 }
