@@ -8,7 +8,7 @@
     <link href="/template/fonts/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/template/css/style.css">
     <title>Определение расчетного сопротивления теплопередаче многослойных конструкций стен</title>
-    </head>
+</head>
 <body>
     <header>
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
