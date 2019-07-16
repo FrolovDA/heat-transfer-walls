@@ -7,10 +7,21 @@
     <link href="/template/css/sticky-footer-navbar.css" rel="stylesheet">
     <link href="/template/fonts/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/template/css/style.css">
-    <title>Title</title>
+    <title>Определение расчетного сопротивления теплопередаче многослойных конструкций стен</title>
 </head>
 <body>
     <header>
-        Header
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <div class="navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a id="link-index" class="nav-link" href="/"><i class="fas fa-info-circle"></i> Информация</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="link-start" class="nav-link" href="/start"><i class="fas fa-calculator"></i> Расчет</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </header>
-    <main>
+    <main class="container">
