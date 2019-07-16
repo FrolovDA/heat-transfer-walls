@@ -20,6 +20,12 @@ class SiteController
      */
     public function actionStart()
     {
+        $coefName = Site::getCoefNames();
+        $coefValue = Site::getCoefValues();
+        $climateName = Site::getClimateNames();
+        $climateValue = Site::getClimateValues();
+        $thermalName = Site::getThermalNames();
+        $thermalValue = Site::getThermalValues();
         require_once(ROOT . '/views/site/start.php');
         return true;
     }
