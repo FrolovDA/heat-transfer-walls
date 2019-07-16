@@ -13,4 +13,14 @@ class SiteController
         require_once(ROOT . '/views/site/index.php');
         return true;
     }
+
+    /**
+     * Action method for parameters entry
+     * @return bool
+     */
+    public function actionStart()
+    {
+        require_once(ROOT . '/views/site/start.php');
+        return true;
+    }
 }
