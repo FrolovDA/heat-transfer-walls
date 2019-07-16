@@ -1,0 +1,10 @@
+{
+    "name": "admin/heat-transfer-walls",
+    "require": {
+        "components/jquery": "3.3.1",
+        "twbs/bootstrap": "4.3.1",
+        "fortawesome/font-awesome": "5.9.0",
+        "select2/select2": "4.0.7",
+        "mathjax/mathjax": "2.7.5"
+    }
+}
